@@ -1,0 +1,8 @@
+..\..\..\Assets\Configs\GameConfig
+.\..\..\Assets\HotFix_Dragon~\ProtoCsFiles
+
+
+
+/**  第一行配置 proto 二进制输出文件夹 例如 E:\UnityDemo\EliminateGame\HelperTools\ExcelToProtobuf\Data
+	第二行配置 Csharp 文件输出文件夹 例如 E:\UnityDemo\EliminateGame\HelperTools\ExcelToProtobuf\Csharp
+**/
